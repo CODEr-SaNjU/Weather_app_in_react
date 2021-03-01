@@ -1,0 +1,29 @@
+:root {
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.name {
+  color: yellow;
+  font-weight: bolder;
+}
+.temp {
+  color: rgb(171, 229, 248);
+  font-weight: bolder;
+}
+.max_temp {
+  color: #95fbff;
+  font-weight: bolder;
+}
+.min_temp {
+  color: rgb(255, 205, 214);
+  font-weight: bolder;
+}
+.desc {
+  color: rgb(235, 238, 245);
+  font-weight: bolder;
+}
+.error {
+  color: red;
+  font-weight: bolder;
+}
